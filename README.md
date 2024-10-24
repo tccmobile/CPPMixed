@@ -32,3 +32,5 @@ The program models a university course system where:
 - Basic course information is handled by the concrete base class
 - Assessment functionality is defined by the interface
 - `GradedCourse` combines both to create a fully functional graded course
+
+[UML Diagram](https://claude.site/artifacts/9a691e62-6aa4-42b3-87be-16c5e6a908e9)
